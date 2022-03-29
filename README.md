@@ -1,0 +1,4 @@
+# AttentionTranslator
+
+- [ ] BLEU
+- [ ] Transformer NN
